@@ -1,0 +1,13 @@
+.diagram-canvas-wrapper {
+  width: 100%;
+  overflow: auto;
+  border: 2px solid #e0e6ed;
+  border-radius: 12px;
+  background: linear-gradient(135deg, #ffffff 0%, #f8f9fa 100%);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.08);
+  position: relative;
+}
+
+#diagramCanvas {
+  display: block;
+}
